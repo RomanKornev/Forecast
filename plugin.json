@@ -1,0 +1,12 @@
+{
+    "ID":"d2460ac93d45486f96b985669557846c",
+    "ActionKeyword":"forecast",
+    "Name":"Forecast",
+    "Description":"Weather forecast for 5 days",
+    "Author":"RomanKornev",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"https://github.com/RomanKornev/Forecast",
+    "IcoPath":"icons\\app.png",
+    "ExecuteFileName":"main.py"
+}
